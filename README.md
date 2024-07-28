@@ -1,4 +1,3 @@
-````markdown
 # Estimate Time Game
 
 Estimate Time Game is an engaging web application where users can test and improve their time estimation skills through interactive challenges.
