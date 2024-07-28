@@ -29,7 +29,7 @@ Make sure you have Node.js and npm installed on your system. You can download th
 ```bash
 git clone https://github.com/mkalantari96/Estimate-time-game.git
 ```
-````
+
 
 ### Install dependencies
 
@@ -55,5 +55,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The project utilizes several React hooks to manage state and side effects effectively:
 
 - `useState`: Manages state within functional components.
-- `useEffect`: Handles side effects, such as fetching data or setting up a timer.
 - `useRef`: Accesses DOM elements directly or persists values across renders.
